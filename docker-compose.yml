@@ -6,7 +6,7 @@ networks:
         external: true
 
 services:
-    mysql-server:
+    sample-mysql-server:
         image: mysql-server:latest
         deploy:
             replicas: 1
