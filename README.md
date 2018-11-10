@@ -8,7 +8,7 @@ docker build -t mysql-server .
 ```
 now you can use it in your apps for instance like here
 ```
-TODO link to sample docker app
+TODO some link
 ```
 it may make sense to create volumes for mysql
 ```
