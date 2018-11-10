@@ -1,4 +1,4 @@
-# dockerMysqlApp
+# dockerMysqlServer
 Sample mysql container for docker
 
 ### Build
