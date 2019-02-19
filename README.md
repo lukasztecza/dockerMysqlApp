@@ -15,4 +15,4 @@ it makes sense to create volumes for mysql
             - "./sql:/var/dev_db"
 
 ```
-where mysql will be mysql files for database and sql can be used to populate it for dev
+where mysql volume is where database will live and sql volume can be used to populate it for dev
